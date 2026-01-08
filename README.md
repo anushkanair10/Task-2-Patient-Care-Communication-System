@@ -10,7 +10,8 @@ This system reduces a doctor’s non-clinical workload by moving WhatsApp chaos 
 * **Role**: The main "Command Center" where daily patient interactions are tracked.
 * **Logic**: Automatically drafts messages and flags "High Priority" items for the doctor.
 
-### 2. [Patient_Questions (Form & Sheet Pair)](https://docs.google.com/spreadsheets/d/1WvGxB2Ke04ftFVF4EmfbKgLw_R-sjpF_FgEzmFWUmok/edit?usp=sharing(https://docs.google.com/forms/d/e/1FAIpQLSfSFwSkUDLtzxoPIfyjfKygnlARuDj6s4dPsRlVOmJo2pOCHA/viewform?usp=dialog))
+### 2.(i) [Patient_Questions (FSheet Pair)](https://docs.google.com/spreadsheets/d/1WvGxB2Ke04ftFVF4EmfbKgLw_R-sjpF_FgEzmFWUmok/edit?usp=sharing
+### (ii) [Form](https://docs.google.com/forms/d/e/1FAIpQLSfSFwSkUDLtzxoPIfyjfKygnlARuDj6s4dPsRlVOmJo2pOCHA/viewform?usp=dialog)
 * **The Form**: A structured intake portal for patients to submit queries (Name, Phone, Question, Urgency) .
 * **The Sheet**: The live destination where form responses are automatically stored for batch review .
 
